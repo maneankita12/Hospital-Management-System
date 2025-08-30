@@ -40,3 +40,13 @@ Traditionally, hospital data such as patient details, staff information, and dia
 - **Tools**: ER modeling, Relational schema  
 
 ---
+
+## ER Diagram
+
+![Alt text](ERDiagram.png)
+
+---
+
+## Scehma
+
+![Alt text](Schema.png)
